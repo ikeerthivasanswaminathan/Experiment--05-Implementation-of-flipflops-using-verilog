@@ -121,7 +121,7 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 
 Developed by : KEERTHIVASAN S 
 
-Register Number : 23002436  
+Register Number : 212223220046  
 
 Code :
 
